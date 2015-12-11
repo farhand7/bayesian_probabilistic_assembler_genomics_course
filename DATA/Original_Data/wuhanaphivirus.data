@@ -1,0 +1,129 @@
+LOCUS       NC_028388               3156 bp    RNA     linear   VRL 13-NOV-2015
+DEFINITION  Wuhan aphid virus 1 strain WHYC-1 segment 1, complete sequence.
+ACCESSION   NC_028388
+VERSION     NC_028388.1  GI:952002249
+DBLINK      BioProject: PRJNA302067
+KEYWORDS    RefSeq.
+SOURCE      Wuhan aphid virus 1
+  ORGANISM  Wuhan aphid virus 1
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA
+            stage.
+REFERENCE   1  (bases 1 to 3156)
+  AUTHORS   Shi,M., Lin,X.D., Vasilakis,N., Tian,J.H., Li,C.X., Chen,L.J.,
+            Eastwood,G., Diao,X.N., Chen,M.H., Chen,X., Qin,X.C., Widen,S.G.,
+            Wood,T.G., Tesh,R.B., Xu,J., Holmes,E.C. and Zhang,Y.Z.
+  TITLE     Divergent viruses discovered in arthropods and vertebrates revise
+            the evolutionary history of the Flaviviridae and related viruses
+  JOURNAL   J. Virol. (2015) In press
+   PUBMED   26491167
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 3156)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2015) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3156)
+  AUTHORS   Shi,M., Lin,X.-D., Vasilakis,N., Tian,J.-H., Li,C.-X., Chen,L.-J.,
+            Eastwood,G., Diao,X.-N., Chen,M.-H., Chen,X., Qin,X.-C.,
+            Widen,S.G., Wood,T.G., Tesh,R.B., Xu,J., Holmes,E.C. and
+            Zhang,Y.-Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAY-2015) Department of Zoonosis, State Key
+            Laboratory for Infectious Disease Prevention and Control, National
+            Institute of Communicable Disease Control and Prevention, Chinese
+            Center for Disease Control and Prevention, Changping Liuzi 5,
+            Beijing, Beijing 102206, China
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to KR902721.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3156
+                     /organism="Wuhan aphid virus 1"
+                     /mol_type="genomic RNA"
+                     /strain="WHYC-1"
+                     /host="Hyalopterus pruni"
+                     /db_xref="taxon:1746067"
+                     /segment="1"
+                     /country="China"
+                     /collection_date="2013"
+     gene            155..2878
+                     /locus_tag="AS028_s1gp1"
+                     /db_xref="GeneID:26196671"
+     CDS             155..2878
+                     /locus_tag="AS028_s1gp1"
+                     /codon_start=1
+                     /product="NS5-like protein"
+                     /protein_id="YP_009179388.1"
+                     /db_xref="GI:952002250"
+                     /db_xref="GeneID:26196671"
+                     /translation="MIIEAIVVLGLLFYLLMESPCYGNNRAGVITTLTNIQDAFASSD
+                     ISDWGPRYKQALNNLGKKAFDAFKMRGVRPTLRSFNKASRGYDKLMDIMRQTKIKPSG
+                     RVLSLCCGRGGWEQVIASNPSITHITSVTLGPGPGHEGHEAFTKIHFPGREKIRVLYG
+                     DARQFPIASHDTLLFDGGESHSDADIEEARFYSLFYNVVMRQINSQTKHFVLKVLTPT
+                     SPRIQKLLEEIQRMTGRGAFYRSCHSRLSTMELYFVSTGIAPVKGRAYSLLQSVMIQG
+                     RENKVLKPRNYDLGFTFSREKIEPKTIPLLKPLDLTDSINELGPQLPEQGLEFNHWET
+                     AGVYPFGSQGSTAMKYNRYAMCVLRRLLSTVPGFDHWKTTDTTPTGFLGVFNKKVDTA
+                     PKENHKYEQHLVQIYEGLAHHFLKMGFSFRELDWTEVMHQANKQGAPGIIDTQFENVG
+                     QFLSQPNWVKKVIYTRQALEKGRPVGGVFNTIGKREKKLSPHEMKGSRMVAYLPIATR
+                     LLELKLFGKLLELTKPAINHFGVGGLGLHDLGMRVEEIWQGHAVSDDIAGFDTRIGLF
+                     FLSLENHFIRLLGGNETHTLMYRLYAYPHILVPLASEFTRSQLLKGRGQRMSGTNVTY
+                     SMNTITRICICLLQYAVANNIPVQELHQWTIKMMKQNAELQGVVSGDDASFSGPQDKI
+                     TALSNTAHVLEEVGMPRKDIPLNIPSPVVDKIEDVDFCSHHYEKITYYDAETGRTTHR
+                     YMPTRDLTQIIAKSTIKIGGKDASLDDMAWLSAQGNNLLVNYAHLRTARAVGFGYKAI
+                     VNPNALLCDTGGFLRPTPWMQPGDILNVTNKILFGESTHYPVEGFRVHSWKHVGFLKP
+                     KREMVYDQDTFSAGRAYWRSKLRYDVANSISELNTGGDITVLDNWRRQELT"
+ORIGIN      
+        1 ccccgcttta cactggagta ttagattaaa tactaactac tactcacaca gtattcagtt
+       61 aaggtgctta actttacatt tggaataact ttgaatattc taaagtttaa aagatttaac
+      121 aactaatcgt gcaatagctt aacatctagc taccatgatt atcgaagcca tagtagtcct
+      181 tggactacta ttttacttgc taatggagtc accctgttac ggcaataaca gagctggtgt
+      241 tatcaccact ctaactaata tacaggatgc cttcgctagc agtgatataa gtgattgggg
+      301 acctagatat aaacaggctc ttaataactt aggcaaaaag gcgttcgacg cgtttaaaat
+      361 gcgtggcgtt cgccccaccc ttaggagctt caacaaagct tctcggggtt acgataaact
+      421 catggacata atgagacaga ccaaaatcaa gccatcaggt agggttttgt ctttgtgctg
+      481 cggtcgagga ggatgggaac aggttatcgc aagtaaccct tctattaccc acataacgag
+      541 cgtaacactt ggaccaggcc ccggacatga aggacatgaa gctttcacca agattcattt
+      601 ccctggacgt gaaaaaatac gagtcttata cggagacgca cgccaattcc ctatcgcatc
+      661 acatgacact ctactctttg acggaggaga gagccatagt gatgcggaca tcgaggaggc
+      721 acgtttctac tcattgtttt acaatgtagt gatgagacaa attaacagcc agactaaaca
+      781 ctttgtatta aaagtgctga cccctacatc cccccggatc cagaaattac tagaagagat
+      841 tcaacgaatg actggccgtg gtgcgtttta taggagttgc cactctagat tgtcaacaat
+      901 ggaattgtac tttgttagca caggtatcgc ccccgtaaaa ggtagggcat attcactact
+      961 acagagtgtc atgatccagg ggagagagaa caaagttctc aaaccccgta attatgatct
+     1021 tggattcact ttctctcgtg agaaaataga accgaagact attcctttac tcaaaccatt
+     1081 agacttgaca gatagtataa atgaattagg accacaacta ccggaacaag gattggaatt
+     1141 taatcactgg gagactgcgg gagtatatcc tttcggatca cagggcagta cggctatgaa
+     1201 atataaccgg tacgccatgt gtgtcctgag acgattgctt agcacagtac ctggttttga
+     1261 tcactggaaa acaactgaca ccacaccaac aggattttta ggcgtgttca acaagaaagt
+     1321 tgacacagct cctaaggaaa accataaata cgaacaacat ctggttcaga tttacgaagg
+     1381 tttagcccat cattttctaa agatgggttt ctcttttcgt gaacttgatt ggacagaagt
+     1441 aatgcaccaa gccaataagc aaggtgctcc tgggataatt gacacacaat ttgaaaatgt
+     1501 tggacaattt ttatcgcaac cgaattgggt gaagaaagtc atctacacac ggcaagcctt
+     1561 ggaaaaaggt agacccgtag gaggtgtctt caacaccata gggaagcgcg agaaaaaatt
+     1621 atcaccacat gaaatgaaag gaagtaggat ggtggcttat ctacccatag ccactagact
+     1681 gttggaattg aaactatttg gaaaattact ggaactaaca aaacctgcta ttaatcactt
+     1741 tggagtgggt ggattaggtc tacatgatct tggaatgaga gtggaagaaa tctggcaagg
+     1801 ccatgctgta tctgatgata tagctggttt tgatactaga atcggcctct tctttcttag
+     1861 cttggaaaac catttcattc gcctcttagg aggcaatgaa acacacactc tgatgtaccg
+     1921 actatacgct tatcctcata tactagttcc tttagcatct gaattcacta gaagtcaact
+     1981 gttaaaaggg agaggacaga gaatgagtgg aacgaatgtg acatactcaa tgaacaccat
+     2041 aactaggata tgcatatgct tactgcaata cgctgtggct aataacatac ctgttcaaga
+     2101 gttacatcaa tggacaataa aaatgatgaa acagaatgca gaattgcaag gagtagtatc
+     2161 tggagatgat gccagcttct ctggcccaca agacaaaata accgctttat ccaacacagc
+     2221 tcatgtgctg gaggaagtgg gtatgcccag aaaagacatc cctctaaaca taccatcccc
+     2281 tgtagttgat aagatagagg atgtggactt ttgttcacat cattatgaaa aaatcacgta
+     2341 ctatgatgca gagacaggac gaactacaca cagatatatg ccaacaagag acctaacaca
+     2401 aatcatcgct aaaagcacca tcaaaatagg aggcaaagat gcctccttgg atgatatggc
+     2461 ttggttgtca gcccaaggca acaacttatt agtaaattac gcacacttaa gaacagctcg
+     2521 ggccgttggt tttggctaca aggccattgt caaccccaac gctttattat gtgacacagg
+     2581 tgggttttta cgacccaccc cttggatgca acccggtgat atactcaacg tgactaacaa
+     2641 gatcttattc ggagaatcaa ctcactaccc agttgagggc tttcgagtcc acagctggaa
+     2701 gcatgtcggt ttcctcaaac ctaagaggga aatggtttac gaccaagaca ctttctcggc
+     2761 agggagagcg tactggagaa gtaaactgcg ctacgatgtc gctaacagca tatccgagtt
+     2821 gaacactggt ggagacatca ctgttctgga caactggaga cgacaagaat taacgtaaca
+     2881 tgcaacaaca cccggcctga caggataaca accgatgacg taacggaact caggaagtca
+     2941 tagcaagact caaaaatgca cagtttttaa atcggacacg agatttgatg tggagataag
+     3001 ccgtaaacgc tcctcattga tgaatcaaac tttaaaatgc cttcaaagtt aacacttgca
+     3061 gtggttcaca cccgctgcag tttgtcacat actgaccagc ctactggctg cacggttatg
+     3121 tgaactacca aatgtgataa ctgacgaaaa cccggc
+//

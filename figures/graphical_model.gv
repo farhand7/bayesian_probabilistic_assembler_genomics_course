@@ -1,0 +1,36 @@
+digraph G {
+	Y_1->X_1
+	Y_n->X_n
+	S_1->X_1
+	S_1->X_n
+	S_alpha->X_1
+	S_alpha->X_n
+	O_1->X_1
+	O_1->X_n
+	O_l->X_1
+	O_l->X_n
+	B_11->X_1
+	B_11->X_n
+	B_1o->X_1
+	B_1o->X_n
+	B_s1->X_1
+	B_s1->X_n
+	B_so->X_1
+	B_so->X_n
+
+	//S_alpha [label=<&#945];
+
+	Y_1 [style=filled fillcolor=orange]
+	Y_n [style=filled fillcolor=orange]
+	X_1 [style=filled fillcolor=pink]
+	X_n [style=filled fillcolor=pink]
+	S_1 [style=filled fillcolor=grey]
+	S_alpha [style=filled fillcolor=grey]
+	O_1 [style=filled fillcolor=yellow]
+	O_l [style=filled fillcolor=yellow]
+	B_11 [style=filled fillcolor=lightblue]
+	B_so [style=filled fillcolor=lightblue]
+	B_1o [style=filled fillcolor=lightblue]
+	B_s1 [style=filled fillcolor=lightblue]
+
+}

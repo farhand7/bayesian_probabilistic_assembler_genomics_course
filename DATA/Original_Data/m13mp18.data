@@ -1,0 +1,366 @@
+ back  Return to this vector's summary.
+ID   M13MP18    preliminary; circular DNA; SYN; 7249 BP.
+XX
+AC   X02513; M77815; M11454; VB0018;
+XX
+DT   02-JUL-1986 (Rel. 1, Created)
+DT   01-JUL-1995 (Rel. 12, Last updated, Version 1)
+XX
+DE   E. coli phage vector M13mp18 - complete.
+XX
+KW   cloning vector.
+XX
+OS   Cloning vector
+OC   Artificial sequences; Cloning vehicles.
+XX
+RN   [1]
+RP   1-7249
+RC   M13mp18 from M13mp8
+RC   M13mp19 from M13mp9
+RC   pUC18 from pUC8
+RC   pUC19 from pUC9
+RA   Yanisch-Perron C., Vieira J., Messing J.;
+RT   "Improved M13 phage cloning vectors and host strains: nucleotide
+RT   sequences of the M13mp18 and pUC19 vectors";
+RL   Gene 33:103-119(1985).
+XX
+RN   [2]
+RC   M13mp1 from M13 & pMG1106
+RC   M13mp2 from M13mp1
+RC   M13mp5 from M13mp2
+RC   M13mp6 from M13mp2
+RC   [M13am1, M13am2 from M13]
+RC   M13mp61 from M13mp6 & M13am1 & M13am2
+RC   M13mp62 from M13mp61
+RC   M13mp63 from M13mp62
+RC   mWU43 from M13mp2
+RC   mWJ22 from M13mp2
+RC   M13mp71 from M13mWJ43
+RC   M13mp7 from M13mp71 & M13mp63
+RC   M13mp8 from M13mp7 & pUC8
+RC   M13mp9 from M13mp7 & pUC9
+RC   [M13mp8c from M13mp8]
+RC   M13mp10 from M13mp8c & pUC12
+RC   M13mp11 from M13mp8c & pUC13
+RC   M13Ho176 from M13 & lambda h80dhis
+RC   M13Gori1 from M13 & phage G4
+RC   M13bla from M13 & Tn3
+RC   M13blacat from M13 & Tn3 & pACYC184
+RC   R199 from phage f1
+RC   R208 from R199
+RC   R209 from phage f1
+RC   R229 from phage f1
+RC   fd11 from phage fd & pKB252
+RC   fd101 from phage fd & pACYC177
+RC   fd103 from phage fd & pACYC177 & pACYC184
+RC   fd104 from phage fd & pACYC177
+RC   fd106 from phage fd & pACYC177 & pACYC184
+RC   fd109 from phage fd & pBR322
+RC   fd107 from phage fd & pBR322
+RC   fd-tet from phage fd & Tn10
+RC   fKN16 from fd-tet
+RA   Messing J.;
+RT   "New M13 Vectors for Cloning";
+RL   Meth. Enzymol. 101:20-78(1983).
+XX
+RN   [3]
+RC   from M13 series
+RA   Sanger F., Nicklen S., Coulson A.R.;
+RT   "DNA sequencing with chain-terminating inhibitors";
+RL   Proc. Natl. Acad. Sci. U.S.A. 74:5463-5468(1977).
+XX
+RN   [4]
+RC   from M13mp5
+RC   from M13mp7
+RC   from M13mp8
+RC   from M13mp9
+RA   Zoller M.J., Smith M.;
+RT   "Oligonucleotide-directed mutagenesis of DNA fragments cloned into
+RT   M13 vectors";
+RL   Meth. Enzymol. 100:468-500(1983).
+XX
+RN   [5]
+RC   pHM235 from pBR325 & primer
+RA   Hu N.T., Messing J.;
+RT   "The making of strand-specific M13 probes";
+RL   Gene 17:271-277(1982).
+XX
+RN   [6]
+RC   [M13mp2963 from M13mp2]
+RC   pHM232 from pBR325 & M13mp2963
+RA   Heidecker G., Messing J., Gronenborn B.;
+RT   "A versatile primer for DNA sequencing in the M13mp2 cloning
+RT   system";
+RL   Gene 10:69-73(1980).
+XX
+RN   [7]
+RC   from M13mp18, M13 gene III
+RC   from M13mp19, M13 gene III
+RA   Ebright R., Dong Q., Messing J.;
+RT   "Corrected nucleotide sequence of M13mp18 gene III";
+RL   Gene 114:81-83(1992).
+XX
+RN   [8]
+RC   M13mp18 from M13mp10
+RC   M13mp19 from M13mp11
+RA   Norrander J., Kempe T., Messing J.;
+RT   "Construction of improved M13 vectors using
+RT   oligodeoxynucleotide-directed mutagenesis";
+RL   Gene 26:101-106(1983).
+XX
+RN   [9]
+RC   from M13mp18
+RC   from M13mp19
+RA   Hong G.F.;
+RT   "A method for sequencing single-stranded cloned DNA in both
+RT   directions";
+RL   Biosci. Rep. 1:243-252(1981).
+XX
+RN   [10]
+RC   from pBR322, primers
+RC   from M13mp2, primers
+RC   from M13mp7, primers
+RC   from M13bla6, primers
+RA   Wallace R.B., Johnson M.J., Suggs S.V., Miyoshi K., Bhatt R.,
+RA   Itakura K.;
+RT   "A set of synthetic oligodeoxyribonucleotide primers for DNA
+RT   sequencing in the plasmid vector pBR322";
+RL   Gene 16:21-26(1981).
+XX
+RN   [11]
+RC   M13mp5 from M13mp2
+RC   M13mp6 from M13mp2
+RA   Messing J.;
+RT   "Multipurpose cloning system based on the single-stranded DNA
+RT   bacteriophage M13";
+RL   Recombinant DNA Technical Bulletin NIH 2:43-48(1979).
+XX
+RN   [12]
+RP   1-7250
+RC   M13mp18 from M13mp8
+RC   M13mp19 from M13mp9
+RA   Gilbert W.;
+RT   "Obtained from VecBase 3.0";
+RL   Unpublished (1991).
+XX
+CC   Size is 7250 for Boehringer.
+CC   M13 is not lytic; the phage extrude through the cell wall.
+CC   The replicative RF I form in the cell is double-stranded and circular,
+CC   and acts like a plasmid.
+CC   The phage form outside the cell is linear and single-stranded.
+CC   NCBI gi: 58253
+CC   NM (M13mp18)
+CC   CM (yes)
+CC   NA (filamentous ss-DNA)(ds-DNA)
+CC   TP (linear)(circular)
+CC   ST ()
+CC   TY (phage)
+CC   SP (Boehringer)(Bio-Rad)(BRL)(NEB)(Pharmacia)(Sigma)(USB)
+CC   HO (E.coli JM101)(E.coli JM103)(E.coli JM105)(E.coli CJ236)
+CC   HO (E.coli JM107)(E.coli JM109)(E.coli DH5alphaF')(E.coli NM522)
+CC   CP ()
+CC   FN (cloning oriented)(sequencing dideoxy)(in vitro mutagenesis)
+CC   FN (labeled strand-specific DNA)
+CC   SE (color blue/white)
+CC   PA (M13mp8)
+CC   BR (M13mp19)
+CC   OF ()
+CC   OR ()
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   misc_feature    0..0
+FT                   /note="1. M13mp10 7244bp, MCS
+FT                   2. oligo SphI-KpnI 12bp gcatgcggtacc
+FT                   -> M13mp18 7249bp"
+FT   CDS             join(6850..7181,1..831)
+FT                   /note="GEN bacteriophage M13 gene II (rf replication
+FT                   and nicking)"
+FT   CDS             496..831
+FT                   /note="GEN bacteriophage M13 gene X"
+FT   CDS             843..1106
+FT                   /note="GEN bacteriophage M13 gene V (single stranded
+FT                   binding protein)"
+FT   CDS             1108..1209
+FT                   /note="GEN bacteriophage M13 gene VII (morphogenesis)"
+FT   CDS             1206..1304
+FT                   /note="GEN bacteriophage M13 gene IX (minor coat
+FT                   protein)"
+FT   misc_binding    1270..1270
+FT                   /note="SIT unique SnaBI"
+FT   CDS             1301..1522
+FT                   /note="GEN bacteriophage M13 gene VIII (major coat
+FT                   protein)"
+FT   CDS             1579..2853
+FT                   /note="GEN bacteriophage M13 gene III (adsorption
+FT                   protein)"
+FT   misc_binding    1752..1752
+FT                   /note="SIT unique BsmI"
+FT   CDS             2856..3194
+FT                   /note="GEN bacteriophage M13 gene VI (morphogenesis)"
+FT   CDS             3196..4242
+FT                   /note="GEN bacteriophage M13 gene I (morphogenesis)"
+FT   CDS             4220..5500
+FT                   /note="GEN bacteriophage M13 gene IV (morphogenesis)"
+FT   rep_origin      complement(0..0)
+FT                   /note="ORI bacteriophage M13 intergenic region
+FT                   (M13IG)"
+FT   misc_binding    5615..5615
+FT                   /note="SIT unique NaeI"
+FT   misc_binding    5721..5721
+FT                   /note="SIT unique DraIII"
+FT   rep_origin      >5615..<5914
+FT                   /note="ORI E. coli pMB1 (ColE1 and pBR322)
+FT                   from pBR322 bases 2354..2373"
+FT   misc_binding    5914..5914
+FT                   /note="SIT unique AvaII"
+FT   misc_binding    6002..6002
+FT                   /note="SIT unique NarI"
+FT   promoter        0..0
+FT                   /note="PRO E. coli lac operator region"
+FT   CDS             <6228..<6935
+FT                   /note="GEN E. coli beta-galactosidase gene (lacZ)
+FT                   alpha peptide"
+FT   primer_bind     0..0
+FT                   /note="PRI bacteriophage M13 forward -40"
+FT   primer_bind     0..0
+FT                   /note="PRI bacteriophage M13 universal"
+FT   misc_binding    6228..6293
+FT                   /note="MCS unique EcoRI-SacI-KpnI-SmaI-BamHI-XbaI-
+FT                   SalI-PstI-SphI-HindIII"
+FT   primer_bind     0..0
+FT                   /note="PRI bacteriophage M13 reverse"
+FT   misc_binding    6408..6408
+FT                   /note="SIT unique PvuI"
+FT   misc_binding    6437..6437
+FT                   /note="SIT unique BglI"
+FT   misc_binding    6501..6501
+FT                   /note="SIT unique SauI"
+FT   misc_binding    0..0
+FT                   /note="SIT unique MstII"
+FT   misc_binding    6935..6935
+FT                   /note="SIT unique BglII"
+XX
+SQ   Sequence 7249 BP; 1768 A; 1538 C; 1533 G; 2410 T; 0 other;
+     aatgctacta ctattagtag aattgatgcc accttttcag ctcgcgcccc aaatgaaaat
+     atagctaaac aggttattga ccatttgcga aatgtatcta atggtcaaac taaatctact
+     cgttcgcaga attgggaatc aactgttaca tggaatgaaa cttccagaca ccgtacttta
+     gttgcatatt taaaacatgt tgagctacag caccagattc agcaattaag ctctaagcca
+     tccgcaaaaa tgacctctta tcaaaaggag caattaaagg tactctctaa tcctgacctg
+     ttggagtttg cttccggtct ggttcgcttt gaagctcgaa ttaaaacgcg atatttgaag
+     tctttcgggc ttcctcttaa tctttttgat gcaatccgct ttgcttctga ctataatagt
+     cagggtaaag acctgatttt tgatttatgg tcattctcgt tttctgaact gtttaaagca
+     tttgaggggg attcaatgaa tatttatgac gattccgcag tattggacgc tatccagtct
+     aaacatttta ctattacccc ctctggcaaa acttcttttg caaaagcctc tcgctatttt
+     ggtttttatc gtcgtctggt aaacgagggt tatgatagtg ttgctcttac tatgcctcgt
+     aattcctttt ggcgttatgt atctgcatta gttgaatgtg gtattcctaa atctcaactg
+     atgaatcttt ctacctgtaa taatgttgtt ccgttagttc gttttattaa cgtagatttt
+     tcttcccaac gtcctgactg gtataatgag ccagttctta aaatcgcata aggtaattca
+     caatgattaa agttgaaatt aaaccatctc aagcccaatt tactactcgt tctggtgttc
+     tcgtcagggc aagccttatt cactgaatga gcagctttgt tacgttgatt tgggtaatga
+     atatccggtt cttgtcaaga ttactcttga tgaaggtcag ccagcctatg cgcctggtct
+     gtacaccgtt catctgtcct ctttcaaagt tggtcagttc ggttccctta tgattgaccg
+     tctgcgcctc gttccggcta agtaacatgg agcaggtcgc ggatttcgac acaatttatc
+     aggcgatgat acaaatctcc gttgtacttt gtttcgcgct tggtataatc gctgggggtc
+     aaagatgagt gttttagtgt attctttcgc ctctttcgtt ttaggttggt gccttcgtag
+     tggcattacg tattttaccc gtttaatgga aacttcctca tgaaaaagtc tttagtcctc
+     aaagcctctg tagccgttgc taccctcgtt ccgatgctgt ctttcgctgc tgagggtgac
+     gatcccgcaa aagcggcctt taactccctg caagcctcag cgaccgaata tatcggttat
+     gcgtgggcga tggttgttgt cattgtcggc gcaactatcg gtatcaagct gtttaagaaa
+     ttcacctcga aagcaagctg ataaaccgat acaattaaag gctccttttg gagccttttt
+     ttttggagat tttcaacgtg aaaaaattat tattcgcaat tcctttagtt gttcctttct
+     attctcactc cgctgaaact gttgaaagtt gtttagcaaa accccataca gaaaattcat
+     ttactaacgt ctggaaagac gacaaaactt tagatcgtta cgctaactat gagggttgtc
+     tgtggaatgc tacaggcgtt gtagtttgta ctggtgacga aactcagtgt tacggtacat
+     gggttcctat tgggcttgct atccctgaaa atgagggtgg tggctctgag ggtggcggtt
+     ctgagggtgg cggttctgag ggtggcggta ctaaacctcc tgagtacggt gatacaccta
+     ttccgggcta tacttatatc aaccctctcg acggcactta tccgcctggt actgagcaaa
+     accccgctaa tcctaatcct tctcttgagg agtctcagcc tcttaatact ttcatgtttc
+     agaataatag gttccgaaat aggcaggggg cattaactgt ttatacgggc actgttactc
+     aaggcactga ccccgttaaa acttattacc agtacactcc tgtatcatca aaagccatgt
+     atgacgctta ctggaacggt aaattcagag actgcgcttt ccattctggc tttaatgaag
+     atccattcgt ttgtgaatat caaggccaat cgtctgacct gcctcaacct cctgtcaatg
+     ctggcggcgg ctctggtggt ggttctggtg gcggctctga gggtggtggc tctgagggtg
+     gcggttctga gggtggcggc tctgagggag gcggttccgg tggtggctct ggttccggtg
+     attttgatta tgaaaagatg gcaaacgcta ataagggggc tatgaccgaa aatgccgatg
+     aaaacgcgct acagtctgac gctaaaggca aacttgattc tgtcgctact gattacggtg
+     ctgctatcga tggtttcatt ggtgacgttt ccggccttgc taatggtaat ggtgctactg
+     gtgattttgc tggctctaat tcccaaatgg ctcaagtcgg tgacggtgat aattcacctt
+     taatgaataa tttccgtcaa tatttacctt ccctccctca atcggttgaa tgtcgccctt
+     ttgtctttag cgctggtaaa ccatatgaat tttctattga ttgtgacaaa ataaacttat
+     tccgtggtgt ctttgcgttt cttttatatg ttgccacctt tatgtatgta ttttctacgt
+     ttgctaacat actgcgtaat aaggagtctt aatcatgcca gttcttttgg gtattccgtt
+     attattgcgt ttcctcggtt tccttctggt aactttgttc ggctatctgc ttacttttct
+     taaaaagggc ttcggtaaga tagctattgc tatttcattg tttcttgctc ttattattgg
+     gcttaactca attcttgtgg gttatctctc tgatattagc gctcaattac cctctgactt
+     tgttcagggt gttcagttaa ttctcccgtc taatgcgctt ccctgttttt atgttattct
+     ctctgtaaag gctgctattt tcatttttga cgttaaacaa aaaatcgttt cttatttgga
+     ttgggataaa taatatggct gtttattttg taactggcaa attaggctct ggaaagacgc
+     tcgttagcgt tggtaagatt caggataaaa ttgtagctgg gtgcaaaata gcaactaatc
+     ttgatttaag gcttcaaaac ctcccgcaag tcgggaggtt cgctaaaacg cctcgcgttc
+     ttagaatacc ggataagcct tctatatctg atttgcttgc tattgggcgc ggtaatgatt
+     cctacgatga aaataaaaac ggcttgcttg ttctcgatga gtgcggtact tggtttaata
+     cccgttcttg gaatgataag gaaagacagc cgattattga ttggtttcta catgctcgta
+     aattaggatg ggatattatt tttcttgttc aggacttatc tattgttgat aaacaggcgc
+     gttctgcatt agctgaacat gttgtttatt gtcgtcgtct ggacagaatt actttacctt
+     ttgtcggtac tttatattct cttattactg gctcgaaaat gcctctgcct aaattacatg
+     ttggcgttgt taaatatggc gattctcaat taagccctac tgttgagcgt tggctttata
+     ctggtaagaa tttgtataac gcatatgata ctaaacaggc tttttctagt aattatgatt
+     ccggtgttta ttcttattta acgccttatt tatcacacgg tcggtatttc aaaccattaa
+     atttaggtca gaagatgaaa ttaactaaaa tatatttgaa aaagttttct cgcgttcttt
+     gtcttgcgat tggatttgca tcagcattta catatagtta tataacccaa cctaagccgg
+     aggttaaaaa ggtagtctct cagacctatg attttgataa attcactatt gactcttctc
+     agcgtcttaa tctaagctat cgctatgttt tcaaggattc taagggaaaa ttaattaata
+     gcgacgattt acagaagcaa ggttattcac tcacatatat tgatttatgt actgtttcca
+     ttaaaaaagg taattcaaat gaaattgtta aatgtaatta attttgtttt cttgatgttt
+     gtttcatcat cttcttttgc tcaggtaatt gaaatgaata attcgcctct gcgcgatttt
+     gtaacttggt attcaaagca atcaggcgaa tccgttattg tttctcccga tgtaaaaggt
+     actgttactg tatattcatc tgacgttaaa cctgaaaatc tacgcaattt ctttatttct
+     gttttacgtg ctaataattt tgatatggtt ggttcaattc cttccataat tcagaagtat
+     aatccaaaca atcaggatta tattgatgaa ttgccatcat ctgataatca ggaatatgat
+     gataattccg ctccttctgg tggtttcttt gttccgcaaa atgataatgt tactcaaact
+     tttaaaatta ataacgttcg ggcaaaggat ttaatacgag ttgtcgaatt gtttgtaaag
+     tctaatactt ctaaatcctc aaatgtatta tctattgacg gctctaatct attagttgtt
+     agtgcaccta aagatatttt agataacctt cctcaattcc tttctactgt tgatttgcca
+     actgaccaga tattgattga gggtttgata tttgaggttc agcaaggtga tgctttagat
+     ttttcatttg ctgctggctc tcagcgtggc actgttgcag gcggtgttaa tactgaccgc
+     ctcacctctg ttttatcttc tgctggtggt tcgttcggta tttttaatgg cgatgtttta
+     gggctatcag ttcgcgcatt aaagactaat agccattcaa aaatattgtc tgtgccacgt
+     attcttacgc tttcaggtca gaagggttct atctctgttg gccagaatgt cccttttatt
+     actggtcgtg tgactggtga atctgccaat gtaaataatc catttcagac gattgagcgt
+     caaaatgtag gtatttccat gagcgttttt cctgttgcaa tggctggcgg taatattgtt
+     ctggatatta ccagcaaggc cgatagtttg agttcttcta ctcaggcaag tgatgttatt
+     actaatcaaa gaagtattgc tacaacggtt aatttgcgtg atggacagac tcttttactc
+     ggtggcctca ctgattataa aaacacttct caagattctg gcgtaccgtt cctgtctaaa
+     atccctttaa tcggcctcct gtttagctcc cgctctgatt ccaacgagga aagcacgtta
+     tacgtgctcg tcaaagcaac catagtacgc gccctgtagc ggcgcattaa gcgcggcggg
+     tgtggtggtt acgcgcagcg tgaccgctac acttgccagc gccctagcgc ccgctccttt
+     cgctttcttc ccttcctttc tcgccacgtt cgccggcttt ccccgtcaag ctctaaatcg
+     ggggctccct ttagggttcc gatttagtgc tttacggcac ctcgacccca aaaaacttga
+     tttgggtgat ggttcacgta gtgggccatc gccctgatag acggtttttc gccctttgac
+     gttggagtcc acgttcttta atagtggact cttgttccaa actggaacaa cactcaaccc
+     tatctcgggc tattcttttg atttataagg gattttgccg atttcggaac caccatcaaa
+     caggattttc gcctgctggg gcaaaccagc gtggaccgct tgctgcaact ctctcagggc
+     caggcggtga agggcaatca gctgttgccc gtctcgctgg tgaaaagaaa aaccaccctg
+     gcgcccaata cgcaaaccgc ctctccccgc gcgttggccg attcattaat gcagctggca
+     cgacaggttt cccgactgga aagcgggcag tgagcgcaac gcaattaatg tgagttagct
+     cactcattag gcaccccagg ctttacactt tatgcttccg gctcgtatgt tgtgtggaat
+     tgtgagcgga taacaatttc acacaggaaa cagctatgac catgattacg aattcgagct
+     cggtacccgg ggatcctcta gagtcgacct gcaggcatgc aagcttggca ctggccgtcg
+     ttttacaacg tcgtgactgg gaaaaccctg gcgttaccca acttaatcgc cttgcagcac
+     atcccccttt cgccagctgg cgtaatagcg aagaggcccg caccgatcgc ccttcccaac
+     agttgcgcag cctgaatggc gaatggcgct ttgcctggtt tccggcacca gaagcggtgc
+     cggaaagctg gctggagtgc gatcttcctg aggccgatac ggtcgtcgtc ccctcaaact
+     ggcagatgca cggttacgat gcgcccatct acaccaacgt aacctatccc attacggtca
+     atccgccgtt tgttcccacg gagaatccga cgggttgtta ctcgctcaca tttaatgttg
+     atgaaagctg gctacaggaa ggccagacgc gaattatttt tgatggcgtt cctattggtt
+     aaaaaatgag ctgatttaac aaaaatttaa cgcgaatttt aacaaaatat taacgtttac
+     aatttaaata tttgcttata caatcttcct gtttttgggg cttttctgat tatcaaccgg
+     ggtacatatg attgacatgc tagttttacg attaccgttc atcgattctc ttgtttgctc
+     cagactctca ggcaatgacc tgatagcctt tgtagatctc tcaaaaatag ctaccctctc
+     cggcattaat ttatcagcta gaacggttga atatcatatt gatggtgatt tgactgtctc
+     cggcctttct cacccttttg aatctttacc tacacattac tcaggcattg catttaaaat
+     atatgagggt tctaaaaatt tttatccttg cgttgaaata aaggcttctc ccgcaaaagt
+     attacagggt cataatgttt ttggtacaac cgatttagct ttatgctctg aggctttatt
+     gcttaatttt gctaattctt tgccttgcct gtatgattta ttggatgtt
+//
