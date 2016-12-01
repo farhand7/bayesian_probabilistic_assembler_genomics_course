@@ -148,13 +148,3 @@ The last file type is the Dan_trial_y_reads_x.txt file, which are outputs of Rea
 5) figures 
 
 Contains various figures utilized within our presentation and write-up.
-
-
-=============================================================================================
-Group members did:
-
-Dan Adler helped with the initial modeling of the algorithm to actually create the simple distributions to be used.  He came up with the idea of utilizing a geometric prior for the number of contigs distribution, and created/found all of the input data that was used for running the algorithm and the analysis.  Dan also was in charge of writing/testing the merge and consensus sequence steps of the algorithm, and also analyzed the read mapping data to see how reads were distributed within different portions of the algorithm.  Lastly, Dan created the README.txt and wrote various portions of the report.
-
-Farhan Damani came up with the idea and found the Laserson paper. After setting up a meeting with Dr. Alexis Battle, Farhan incorporated Dr. Battle’s advice and later designed the graphical model, including assumptions, priors, and dependencies. Farhan explored approximate inference techniques to make probability computations tractable and identified the key algorithmic steps from the Laserson paper that should be used in the model. He wrote out the math that was necessary for implementation and coded the initialization, driver, and probabilistic algorithmic step (read mapping), requiring likelihood computations, local alignment, sampling through approximate inference techniques, and a scoring scheme to compute the joint probability of x and y. Lastly, he analyzed likelihood convergence, how the contigs evolved over time-steps, and wrote significant portions of the write-up and the slides.
-
-
